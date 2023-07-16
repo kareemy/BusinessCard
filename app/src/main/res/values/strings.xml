@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Kareem Dana</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="phone">(123) 555-6666</string>
+    <string name="social">\@KareemDana</string>
+    <string name="email">kdana@wtamu.edu</string>
+</resources>
